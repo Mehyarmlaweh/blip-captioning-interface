@@ -1,0 +1,12 @@
+# Streamlit
+streamlit
+
+# API
+fastapi
+pydantic
+uvicorn
+pydantic
+requests
+python-dotenv==1.0.1
+pillow==10.0.0
+python-multipart
